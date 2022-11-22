@@ -1,0 +1,161 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="broadwelltechnologies.com" resolutions="1x" timestamp="1519023422035">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_master-a---contact-extras.css" crc="3950857420" ref="sitemap:privacy-policy-and-terms:contact-us"/>
+    <file name="master_master-a---home.css" crc="3760179486" ref="index"/>
+    <file name="nomq_preview_master_master-a---home.css" crc="336708910" ref="index"/>
+    <file name="master_master-a---inserts.css" crc="3816404192" ref="services:our-work:leadership"/>
+    <file name="services.css" crc="217459701" ref="services"/>
+    <file name="privacy---copia.css" crc="270311369" ref="privacy---copia"/>
+    <file name="sitemap.css" crc="4117997245" ref="sitemap"/>
+    <file name="our-work.css" crc="363778421" ref="our-work"/>
+    <file name="privacy-policy-and-terms.css" crc="4075759950" ref="privacy-policy-and-terms"/>
+    <file name="index.css" crc="3763903367" ref="index"/>
+    <file name="nomq_index.css" crc="4088745996" ref="index"/>
+    <file name="leadership.css" crc="4022837964" ref="leadership"/>
+    <file name="contact-us.css" crc="407946985" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms:privacy---copia"/>
+    <file name="museutils.js" crc="3803043152" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms:privacy---copia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms:privacy---copia"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms:privacy---copia"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms:privacy---copia"/>
+    <file name="webpro.js" crc="242022427" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms:privacy---copia"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u929.php" crc="275487997" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms:privacy---copia"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms:privacy---copia"/>
+    <file name="form-u1683.php" crc="8187689" ref="services"/>
+    <file name="form-u3083.php" crc="4093259196" ref="contact-us"/>
+    <file name="form-u3020.php" crc="3803289255" ref="privacy---copia"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-621745x194.svg" crc="366188068" seo="true" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms">
+      <caption webpage="privacy-policy-and-terms" alt=""/>
+      <caption webpage="sitemap" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="pasted svg 621745x194_poster_.png" crc="63484856" ref="index"/>
+    <file name="stock-photo-close-up-of-hands-working-on-project-at-office-desk-with-abstract-digital-pattern-accounting-and-768715270-crop-u2581.jpg" crc="4090222816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stock-photo-education-and-technology-young-students-of-different-nationalities-using-gadgets-while-waiting-for-628535858-crop-u2589.jpg" crc="228355950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stock-photo-businessman-and-illustration-digital-chart-782301853-crop-u2596.jpg" crc="20659545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="puntos.png" crc="3767370633" seo="true" ref="index:services:our-work:leadership:contact-us:privacy-policy-and-terms">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privacy-policy-and-terms" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="pasted-svg-6717x14.svg" crc="7897366" seo="true" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms">
+      <caption webpage="privacy-policy-and-terms" alt=""/>
+      <caption webpage="sitemap" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="pasted svg 6717x14_poster_.png" crc="307710115" ref="index"/>
+    <file name="pasted-svg-13168x10.svg" crc="172302631" seo="true" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms">
+      <caption webpage="privacy-policy-and-terms" alt=""/>
+      <caption webpage="sitemap" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="pasted svg 13168x10_poster_.png" crc="534347254" ref="index"/>
+    <file name="pasted-svg-14632x13.svg" crc="4197512507" seo="true" ref="index:services:our-work:leadership:contact-us:sitemap:privacy-policy-and-terms">
+      <caption webpage="privacy-policy-and-terms" alt=""/>
+      <caption webpage="sitemap" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="pasted svg 14632x13_poster_.png" crc="3789612820" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="stock-photo-close-up-of-hands-working-on-project-at-office-desk-with-abstract-digital-pattern-accounting-and-768715270-crop-u2706.jpg" crc="4090222816" seo="true" ref="services:our-work:leadership">
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="stock-photo-education-and-technology-young-students-of-different-nationalities-using-gadgets-while-waiting-for-628535858-crop-u2715.jpg" crc="228355950" seo="true" ref="services:our-work:leadership">
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="stock-photo-businessman-and-illustration-digital-chart-782301853-crop-u2710.jpg" crc="20659545" seo="true" ref="services:our-work:leadership">
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="stock-photo-close-up-of-hands-working-on-project-at-office-desk-with-abstract-digital-pattern-accounting-and-768715270-crop-u2793.jpg" crc="4090222816" seo="true" ref="contact-us:sitemap:privacy-policy-and-terms">
+      <caption webpage="privacy-policy-and-terms" alt=""/>
+      <caption webpage="sitemap" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="stock-photo-education-and-technology-young-students-of-different-nationalities-using-gadgets-while-waiting-for-628535858-crop-u2802.jpg" crc="228355950" seo="true" ref="contact-us:sitemap:privacy-policy-and-terms">
+      <caption webpage="privacy-policy-and-terms" alt=""/>
+      <caption webpage="sitemap" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="stock-photo-businessman-and-illustration-digital-chart-782301853-crop-u2797.jpg" crc="20659545" seo="true" ref="contact-us:sitemap:privacy-policy-and-terms">
+      <caption webpage="privacy-policy-and-terms" alt=""/>
+      <caption webpage="sitemap" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="stock-photo-san-francisco-circa-july-downtown-san-francisco-is-home-to-many-start-up-companies-in-524035939-crop-u2984.jpg" crc="215591067" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4189158445" seo="true" mt="1519023400577" redirect="true"/>
+  <file name="services.html" crc="3999709884" seo="true" mt="1519018755248" redirect="true"/>
+  <file name="our-work.html" crc="345101309" seo="true" mt="1519017959511" redirect="true"/>
+  <file name="leadership.html" crc="3792413577" seo="true" mt="1519018254177" redirect="true"/>
+  <file name="contact-us.html" crc="3861281422" seo="true" mt="1519017981222" redirect="true"/>
+  <file name="sitemap.html" crc="3886087262" seo="true" mt="1519017981222" redirect="true"/>
+  <file name="privacy-policy-and-terms.html" crc="67737631" seo="true" mt="1519018067011" redirect="true"/>
+  <file name="privacy---copia.html" crc="4135864792" seo="true" mt="1519017121793" redirect="true"/>
+</manifest>
